@@ -15,6 +15,6 @@ public class Main {
 
     class B extends A {
         public String meth() {
-            return "Method is overridden in Extended class B";
+            return "Method is overridden in Extendend class B";
         }
     }
